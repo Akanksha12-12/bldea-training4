@@ -85,7 +85,7 @@ public class Questions {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(1000);
@@ -185,7 +185,7 @@ public class Questions {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(1000);
@@ -287,7 +287,7 @@ public class Questions {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -436,7 +436,7 @@ public static boolean fetchQuestion2(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(2000);
@@ -544,7 +544,7 @@ public static boolean fetchQuestion2(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(2000);
@@ -653,7 +653,7 @@ public static boolean fetchQuestion2(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -810,7 +810,7 @@ public static boolean fetchQuestion3(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(5000);
@@ -918,7 +918,7 @@ public static boolean fetchQuestion3(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(5000);
@@ -1027,7 +1027,7 @@ public static boolean fetchQuestion3(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -1183,7 +1183,7 @@ public static boolean fetchQuestion4(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(10000);
@@ -1291,7 +1291,7 @@ public static boolean fetchQuestion4(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(10000);
@@ -1400,7 +1400,7 @@ public static boolean fetchQuestion4(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -1556,7 +1556,7 @@ public static boolean fetchQuestion5(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(20000);
@@ -1664,7 +1664,7 @@ public static boolean fetchQuestion5(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(20000);
@@ -1773,7 +1773,7 @@ public static boolean fetchQuestion5(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -1930,7 +1930,7 @@ public static boolean fetchQuestion6(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(50000);
@@ -2038,7 +2038,7 @@ public static boolean fetchQuestion6(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(50000);
@@ -2147,7 +2147,7 @@ public static boolean fetchQuestion6(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -2302,7 +2302,7 @@ public static boolean fetchQuestion7(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(100000);
@@ -2410,7 +2410,7 @@ public static boolean fetchQuestion7(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(100000);
@@ -2519,7 +2519,7 @@ public static boolean fetchQuestion7(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -2675,7 +2675,7 @@ public static boolean fetchQuestion8(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(1000000);
@@ -2783,7 +2783,7 @@ public static boolean fetchQuestion8(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(1000000);
@@ -2892,7 +2892,7 @@ public static boolean fetchQuestion8(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -3048,7 +3048,7 @@ public static boolean fetchQuestion9(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(5000000);
@@ -3156,7 +3156,7 @@ public static boolean fetchQuestion9(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(5000000);
@@ -3265,7 +3265,7 @@ public static boolean fetchQuestion9(String name) throws Exception{
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
@@ -3421,7 +3421,7 @@ public static boolean fetchQuestion10(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(10000000);
@@ -3529,7 +3529,7 @@ public static boolean fetchQuestion10(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("c")) {
+						} else if (result3.equalsIgnoreCase("c")) {
 							if (skip_cnt != 0) {
 								skip_cnt = 0;
 								Candidate.setAmount(10000000);
@@ -3638,7 +3638,7 @@ public static boolean fetchQuestion10(String name)throws Exception {
 								}
 								//--- need code intervention
 							}
-						} else if (result2.equalsIgnoreCase("b")) {
+						} else if (result3.equalsIgnoreCase("b")) {
 							if (cnt_50_50 != 0) {
 								cnt_50_50 = 0;
 								System.out.println("Select the options");
