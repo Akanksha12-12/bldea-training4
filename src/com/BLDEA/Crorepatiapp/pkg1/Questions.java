@@ -97,7 +97,7 @@ public class Questions {
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -197,7 +197,7 @@ public class Questions {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -306,7 +306,7 @@ public class Questions {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -448,7 +448,7 @@ public static boolean fetchQuestion2(String name) throws Exception{
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -556,7 +556,7 @@ public static boolean fetchQuestion2(String name) throws Exception{
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -673,7 +673,7 @@ public static boolean fetchQuestion2(String name) throws Exception{
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -822,7 +822,7 @@ public static boolean fetchQuestion3(String name)throws Exception {
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -930,7 +930,7 @@ public static boolean fetchQuestion3(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -1047,7 +1047,7 @@ public static boolean fetchQuestion3(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -1195,7 +1195,7 @@ public static boolean fetchQuestion4(String name)throws Exception {
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -1303,7 +1303,7 @@ public static boolean fetchQuestion4(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -1420,7 +1420,7 @@ public static boolean fetchQuestion4(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -1568,7 +1568,7 @@ public static boolean fetchQuestion5(String name) throws Exception{
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -1676,7 +1676,7 @@ public static boolean fetchQuestion5(String name) throws Exception{
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -1793,7 +1793,7 @@ public static boolean fetchQuestion5(String name) throws Exception{
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -1942,7 +1942,7 @@ public static boolean fetchQuestion6(String name) throws Exception{
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -2050,7 +2050,7 @@ public static boolean fetchQuestion6(String name) throws Exception{
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -2167,7 +2167,7 @@ public static boolean fetchQuestion6(String name) throws Exception{
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -2314,7 +2314,7 @@ public static boolean fetchQuestion7(String name)throws Exception {
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -2422,7 +2422,7 @@ public static boolean fetchQuestion7(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -2539,7 +2539,7 @@ public static boolean fetchQuestion7(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -2687,7 +2687,7 @@ public static boolean fetchQuestion8(String name)throws Exception {
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -2795,7 +2795,7 @@ public static boolean fetchQuestion8(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -2912,7 +2912,7 @@ public static boolean fetchQuestion8(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -3060,7 +3060,7 @@ public static boolean fetchQuestion9(String name) throws Exception{
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -3168,7 +3168,7 @@ public static boolean fetchQuestion9(String name) throws Exception{
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -3285,7 +3285,7 @@ public static boolean fetchQuestion9(String name) throws Exception{
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -3433,7 +3433,7 @@ public static boolean fetchQuestion10(String name)throws Exception {
 										+ "b. 50-50 \n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("b")) {
 									if (cnt_50_50 != 0) {
 										cnt_50_50 = 0;
 										System.out.println("Select the options");
@@ -3541,7 +3541,7 @@ public static boolean fetchQuestion10(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
@@ -3658,7 +3658,7 @@ public static boolean fetchQuestion10(String name)throws Exception {
 										+ "b. 50-50  -- (not available)\n" + "c. skip -- (not available)");
 								System.out.println("Select the life line:");
 								String result4 = sc.next();
-								if (result3.equalsIgnoreCase("b")) {
+								if (result4.equalsIgnoreCase("a")) {
 									if (aud_phn != 0) {
 										aud_phn = 0;
 										Thread.sleep(10000);
